@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+.box {
+    width: 400px;
+    height: 400px;
+    background-color: #225499;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px 12px #FF0101;
+    outline: 20px dotted #0000ff;
+    outline-offset: -6px;
+    background-image: url(flor-branca.png);
+    background-position: -15px;
+    background-position-y: 60px;
+    background-repeat: no-repeat;
+    background-size: 420px;
+}
+
+h1 {
+    text-align: center;
+    color: #FF0000;
+}
